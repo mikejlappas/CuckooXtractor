@@ -5,7 +5,7 @@ Extracts executable files from within Cuckoo generated `.dmp` files that are in 
 ## Building
 
 ```bash
-./build.sh
+make
 ```
 
 ## Usage
@@ -15,4 +15,4 @@ Extracts executable files from within Cuckoo generated `.dmp` files that are in 
 ```
 
 ## License
-[GNU General Public License v2.0](https://choosealicense.com/licenses/gpl-2.0/)
+[GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0)
